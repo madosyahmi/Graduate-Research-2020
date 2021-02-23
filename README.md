@@ -7,14 +7,14 @@
 
 名前（英語）
 
-|text (docやtxtなどの文書類)
+/text (docやtxtなどの文書類)
 
-|ppt（パワポ資料やpdfファイル）
+/ppt（パワポ資料やpdfファイル）
 
-|refs（調査した文献）
+/refs（調査した文献）
 
-|program（ソースコード）
+/program（ソースコード）
 
-|essentials.txt（研究の概要）
+essentials.txt（研究の概要）
 
 
