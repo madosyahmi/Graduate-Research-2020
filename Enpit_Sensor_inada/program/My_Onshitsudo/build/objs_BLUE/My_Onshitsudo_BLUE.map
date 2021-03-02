@@ -1,0 +1,1900 @@
+Archive member included because of file (symbol)
+
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_event.o)
+                              objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin) (PRSEV_u8RegisterEx)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_main.o)
+                              objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin) (sToCoNet_Context)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_utils.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetVersion)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_Tx.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (ToCoNet_vReg_mod_Tx_Standard)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_TxRxQueue.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (ToCoNet_vReg_mod_TxRxQueueSmall)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_Nwk_Common.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_vRxProc_Mod)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_Channel_Mgr.o)
+                              ToCoNet_mod_Tx.o (symbol from plugin) (ToCoNet_ChMgr_bCh_OnTx)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetVersionInfo)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(AppQueueApi_ToCoNet.o)
+                              ToCoNet_main.o (symbol from plugin) (_u32_INT_ticktimer)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(AppStart.o)
+                              (AppColdStart)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(getMacAddr.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetSerialOnBoot)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(mac.o)
+                              ToCoNet_main.o (symbol from plugin) (Mac_vInit)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(AES_CCM.o)
+                              AppStart.o (symbol from plugin) (bAES_CCM_KeyReg)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(no_ack_handler.o)
+                              AppStart.o (symbol from plugin) (vInstallNoAckHandler)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetExtVersionInfo)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(serial.o)
+                              objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin) (SERIAL_bTxChar)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(uart.o)
+                              serial.o (symbol from plugin) (UART_vInit)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(ByteQueue.o)
+                              ToCoNet_main.o (symbol from plugin) (QUEUE__vInit)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(ccitt8.o)
+                              AppStart.o (symbol from plugin) (u8CCITT8)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(fprintf.o)
+                              objs_BLUE/sensors/legacy/sensor_driver.o (symbol from plugin) (vfPrintf)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(utils.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (vTimerConfig)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(ccm.o)
+                              AES_CCM.o (symbol from plugin) (ccm_init_and_key)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetUtilsVersionInfo)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(aescrypt.o)
+                              ccm.o (symbol from plugin) (aes_encrypt)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(aeskey.o)
+                              ccm.o (symbol from plugin) (aes_encrypt_key)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(aestab.o)
+                              aeskey.o (symbol from plugin) (t_im)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twenvm.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWENVM_bRead)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTRCT_pscInit)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive_settings.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTCT_vSerUpdateScreen_settings)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive_defmenus.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTCT_vSerUpdateScreen_defmenus)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive_nvmutils.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTCT_vSerUpdateScreen_nvmutils)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweprintf.o)
+                              objs_BLUE/mwx_debug.o (symbol from plugin) (TWE_fprintf)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesercmd_plus3.o)
+                              tweinteractive.o (symbol from plugin) (TWESERCMD_Plus3_u8Parse)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweserial.o)
+                              tweinteractive.o (symbol from plugin) (_TWE_fputs)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesettings.o)
+                              tweinteractive_settings.o (symbol from plugin) (TWESTG_u32GetU32FrUDatum)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesettings_std.o)
+                              tweinteractive_settings.o (symbol from plugin) (TWESTG_u32SaveDataToAppStrg)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesettings_validator.o)
+                              objs_BLUE/settings/mwx_stgs_standard_tbl.o (symbol from plugin) (TWESTGS_VLD_u32MinMax)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twestring.o)
+                              twesettings_validator.o (symbol from plugin) (TWESTR_u8SplitTokens)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweserial_jen.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (TWETERM_vInitJen)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesysutils.o)
+                              objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin) (TWESYSUTL_vWaitPoll)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(printf.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (snprintf_)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twecrc8.o)
+                              twenvm.o (symbol from plugin) (TWE_CRC8_u8Calc)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinputstring.o)
+                              tweinteractive.o (symbol from plugin) (TWEINPSTR_vInit)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a(AppApi.o)
+                              (pvAppApiDefGetMacHandle)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a(AppApiSleep.o)
+                              (vAppApiDefSaveMacSettings)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_main.o)
+                              AppApi.o (symbol from plugin) (MAC_pvCtor)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_mcps.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMcpsReqRsp)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_mlme.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMlmeReqRsp)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_pib.o)
+                              AppStart.o (symbol from plugin) (MAC_psPibGetHandle)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_pib_mlme.o)
+                              mac_main.o (symbol from plugin) (mac_vPibSetDefaults)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_pmic.o)
+                              mac_main.o (symbol from plugin) (vPMICreset)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_ind.o)
+                              AppApi.o (symbol from plugin) (MAC_vRegisterMlmeDcfmIndCallbacks)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_scan.o)
+                              mac_main.o (symbol from plugin) (mac_eScanInit)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_lp.o)
+                              mac_pmic.o (symbol from plugin) (g_sLP)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(MCPS.o)
+                              mac_mcps.o (symbol from plugin) (vTAM_MCPSdataRequest)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(phy_pib.o)
+                              AppApi.o (symbol from plugin) (phy_ePibGet)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM.o)
+                              MCPS.o (symbol from plugin) (bTAMinPAN)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMCO.o)
+                              TAM.o (symbol from plugin) (vTAMCOsetCoordinator)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMDE.o)
+                              TAM.o (symbol from plugin) (vTAMDEdetermineNullState)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_MEM.o)
+                              TAM.o (symbol from plugin) (vMEMreset)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_MLME.o)
+                              mac_scan.o (symbol from plugin) (vMLMEbeaconNotify)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_TAH.o)
+                              TAMCO.o (symbol from plugin) (vTAHsetCutOff)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_TAI.o)
+                              TAM.o (symbol from plugin) (vTAIsetCapTime)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_TAT.o)
+                              TAMDE.o (symbol from plugin) (vTATstartReceiveAt)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMcommon.o)
+                              mac_scan.o (symbol from plugin) (bTACassessBeaconForPayload)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMevent.o)
+                              mac_lp.o (symbol from plugin) (vTAMinsertEvent)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMqueue.o)
+                              TAMcommon.o (symbol from plugin) (vTAQaddToFifo)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMrxEnable.o)
+                              TAMevent.o (symbol from plugin) (vTAMRXEint2Fired)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMsecurity.o)
+                              TAMcommon.o (symbol from plugin) (vTSCgetIncomingInfo)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMsideways.o)
+                              mac_pmic.o (symbol from plugin) (eTAStransmitRequest)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMtime.o)
+                              TAM.o (symbol from plugin) (vTTIBLETimerExpired)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_AES.o)
+                              TAMsecurity.o (symbol from plugin) (u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(Endian.o)
+                              TAM_AES.o (symbol from plugin) (vFromU16ToLe)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_acl.o)
+                              TAMsecurity.o (symbol from plugin) (MAC_u8AclFindInfo)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_misc.o)
+                              mac_mlme.o (symbol from plugin) (vMAC_MISCpollRequest)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a(tsv_main.o)
+                              AppApiSleep.o (symbol from plugin) (s_sTimerList)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a(xcv_main.o)
+                              AppApi.o (symbol from plugin) (XCV_vCtor)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a(xcv_access.o)
+                              mac_main.o (symbol from plugin) (XCV_vDevWriteIER)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a(xcv_isr.o)
+                              AppApi.o (symbol from plugin) (vXCV_IntHandlerPhy)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorCCM.o)
+                              AES_CCM.o (symbol from plugin) (bACI_CCMstar)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AES_CCM_Star.o)
+                              TAM_AES.o (symbol from plugin) (vACI_OptimisedCcmStar)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPI.o)
+                              AES_CCM_Star.o (symbol from plugin) (vACI_CmdWaitBusy)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Analogue.o)
+                              objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin) (bAHI_APRegulatorEnabled)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_BrownOut.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (vAHI_BrownOutConfigure)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Dio.o)
+                              objs_BLUE/mwx_periph_dio.o (symbol from plugin) (vAHI_DioSetDirection)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_PulseCounter.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (bAHI_Read16BitCounter)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Reset.o)
+                              objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin) (vAHI_SwReset)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Spi.o)
+                              objs_BLUE/sensors/mwx_sns_MC3630.o (symbol from plugin) (vAHI_SpiConfigure)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_System.o)
+                              AppApiSleep.o (symbol from plugin) (u8AHI_PowerStatus)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Timer.o)
+                              utils.o (symbol from plugin) (vAHI_TimerEnable)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_TimerInt.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_Timer0RegisterCallback)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Uart.o)
+                              uart.o (symbol from plugin) (vAHI_UartSetBaudDivisor)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_WakeTimer.o)
+                              ToCoNet_utils.o (symbol from plugin) (vAHI_WakeTimerEnable)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Flash.o)
+                              AHI_System.o (symbol from plugin) (vAHI_FlashAndEEPROMControllerIntHandler)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Infrared.o)
+                              AHI_TimerInt.o (symbol from plugin) (vAHI_IntHandlerInfrared)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_DO.o)
+                              objs_BLUE/mwx_periph_dio.o (symbol from plugin) (bAHI_DoEnableOutputs)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(InternalFlashApi.o)
+                              AHI_Flash.o (symbol from plugin) (bFlashErase)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_FlashIndexSector.o)
+                              AppStart.o (symbol from plugin) (bAHI_ReadMACID)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Si.o)
+                              objs_BLUE/sensors/legacy/SMBus.o (symbol from plugin) (vAHI_SiMasterConfigure)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_TickTimer.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_TickTimerInit)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                              AppApi.o (symbol from plugin) (vAHI_InterruptSetPriority)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Init.o)
+                              AppStart.o (symbol from plugin) (u32AHI_Init)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_SpiSlave.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerSpiSlave)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroInt_ba.o)
+                              ToCoNet_main.o (symbol from plugin) (vMicroIntEnableOnly)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                              AHI_Reset.o (symbol from plugin) (vMicroSyscall)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(Heap.o)
+                              (u32HeapStart)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                              (_exception_external_interrupt)
+C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(eeprom_6x.o)
+                              twenvm.o (symbol from plugin) (EEP_6x_bRead)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a(AppHousekeeping.o)
+                              mac_scan.o (symbol from plugin) (sAppHousekeeping)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPIinterrupts.o)
+                              AHI_Init.o (symbol from plugin) (vACI_IntHandlerAes)
+C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(EEP_EEPROM.o)
+                              eeprom_6x.o (symbol from plugin) (u16AHI_InitialiseEEP)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                              objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin) (memset)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans2.ltrans.o (memcmp)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (memcpy)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o (strlen)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__udivsi3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o (__divsi3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__umodsi3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o (__modsi3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o (__muldi3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o (__fixunsdfsi)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__udivdi3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__umoddi3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__adddf3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__divdf3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__nedf2)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__gedf2)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o (__ledf2)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__muldf3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__subdf3)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__fixdfsi)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o (__floatsidf)
+c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+                              C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o (__floatunsidf)
+
+Allocating common symbols
+Common symbol       size              file
+
+_TWENET_TX_POWER_MAX
+                    0x1               AppStart.o (symbol from plugin)
+EEPROM_6X_USER_SIZE
+                    0x2               eeprom_6x.o (symbol from plugin)
+apvHwIndBufferData  0x2c              AppQueueApi_ToCoNet.o (symbol from plugin)
+prMAC_TofMlmeReqHandler
+                    0x4               mac_mlme.o (symbol from plugin)
+apvMlmeIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+_TWENET_TX_POWER_VALUE
+                    0x1               AppStart.o (symbol from plugin)
+g_tSpiConfiguration
+                    0x4               AHI_Flash.o (symbol from plugin)
+u8TAM_TxStatusOverride
+                    0x1               TAMevent.o (symbol from plugin)
+prMAC_TofRxHandler  0x4               TAMcommon.o (symbol from plugin)
+_MAC_u8TxFailReason
+                    0x1               mac.o (symbol from plugin)
+EEPROM_6X_USER_SEGMENTS
+                    0x2               eeprom_6x.o (symbol from plugin)
+apvMcpsIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+bAHI_ExtendedTemperatureOperation
+                    0x1               AHI_System.o (symbol from plugin)
+bMAC_DiscardUnsuccessfulAssocResponses
+                    0x1               mac_pmic.o (symbol from plugin)
+u8Msq               0x1               TAM_TAT.o (symbol from plugin)
+g_bLegacyHwBugEmulation
+                    0x1               AES_CCM_Star.o (symbol from plugin)
+EEPROM_6X_SEGMENT_SIZE
+                    0x2               eeprom_6x.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/SMBus.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans20.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans21.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+ .text.exit     0x0000000000000000        0x3 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+ .text.startup  0x0000000000000000        0x2 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+ .ctors         0x0000000000000000        0x4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans23.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans24.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans24.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans26.ltrans.o
+ .rodata        0x0000000000000000        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans26.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans27.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans28.ltrans.o
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x38 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .eh_frame      0x0000000000000000       0x38 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/sensor_driver.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/SHTC3.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/SHT31.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/LTR308ALS.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/BME280.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_debug.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L110serial_jen7vOutputEcPv
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE15_cbTweNet_vMainEPv
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2ImmE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1ItE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IttE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1ImE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IPcmE9_do_printEPvPFvcS4_ES4_
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L114processev_crtpINS0_9NwkSimpleEE14vProcessEvCoreEP8_tsEvent7teEventm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE9_on_eventEPvmRm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vHwEventEPvmm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE17_cbTweNet_u8HwIntEPvmm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L114processev_crtpINS0_12StgsStandardEE14vProcessEvCoreEP8_tsEvent7teEventm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE15_cbTweNet_vMainEPv
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vHwEventEPvmm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE17_cbTweNet_u8HwIntEPvmm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE9_on_eventEPvmRm
+                0x0000000000000000        0x0 objs_BLUE/ActEx_Sns_BME280_SHT30.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_utils_crc8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_appcore.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_memory.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph_dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph_buttons.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph_analogue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_stream.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_duplicate_checker.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_settings.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L110serial_jen7vOutputEcPv
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112StgsStandard7_serial10_availableEPv
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IiiE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112StgsStandard7_serial5_readEPv
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_tbl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_amb.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_mot.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_mag.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_notice.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_monostick.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_app_twelite.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/networks/mwx_nwk_simple.o (symbol from plugin)
+ .gnu.linkonce.t._ZZN3mwx2L110twenet_mac8transmitERNS0_9packet_txEE5u8seq
+                0x0000000000000000        0x0 objs_BLUE/networks/mwx_nwk_simple.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/probe.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_MC3630.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_PCA9632.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L110serial_jen7vOutputEcPv
+                0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_PCA9632.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_PCA9632.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_event.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Tx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_TxRxQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Nwk_Common.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Channel_Mgr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppQueueApi_ToCoNet.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppStart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 getMacAddr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 no_ack_handler.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 serial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ByteQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccitt8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 fprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aescrypt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aeskey.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aestab.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twenvm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive_settings.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive_defmenus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive_nvmutils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesercmd_plus3.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweserial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesettings.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesettings_std.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesettings_validator.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twestring.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweserial_jen.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesysutils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 printf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twecrc8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinputstring.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApiSleep.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mcps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pmic.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_ind.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_scan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_lp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MCPS.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 phy_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMCO.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMDE.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MEM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MLME.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAH.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAT.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMcommon.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMevent.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMqueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMrxEnable.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsecurity.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsideways.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMtime.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_AES.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Endian.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_acl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_misc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tsv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_access.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_isr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorCCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM_Star.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Analogue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_BrownOut.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_PulseCounter.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Reset.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_System.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TimerInt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_WakeTimer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Infrared.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_DO.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 InternalFlashApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_FlashIndexSector.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Si.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TickTimer.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .bss           0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .text          0x0000000000000000        0x0 AHI_Init.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_SpiSlave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MicroInt_ba.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .data          0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .bss           0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .text          0x0000000000000000        0x0 Heap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .data          0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .bss           0x0000000000000000        0x0 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .text          0x0000000000000000        0x0 eeprom_6x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppHousekeeping.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPIinterrupts.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 EEP_EEPROM.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000000080000 0x0000000000028000
+ram              0x000000000400004c 0x0000000000007fb4
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD objs_BLUE/sensors/legacy/SMBus.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans2.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans3.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans4.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans5.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans7.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans8.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans13.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans14.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans15.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans16.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans20.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans21.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans23.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans24.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans25.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans26.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans27.ltrans.o
+LOAD C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans28.ltrans.o
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD objs_BLUE/sensors/legacy/sensor_driver.o
+LOAD objs_BLUE/sensors/legacy/SHTC3.o
+LOAD objs_BLUE/sensors/legacy/SHT31.o
+LOAD objs_BLUE/sensors/legacy/LTR308ALS.o
+LOAD objs_BLUE/sensors/legacy/BME280.o
+LOAD objs_BLUE/mwx_debug.o
+LOAD objs_BLUE/ActEx_Sns_BME280_SHT30.o
+LOAD objs_BLUE/mwx_utils_crc8.o
+LOAD objs_BLUE/mwx_utils.o
+LOAD objs_BLUE/mwx_appcore.o
+LOAD objs_BLUE/mwx_memory.o
+LOAD objs_BLUE/mwx_periph.o
+LOAD objs_BLUE/mwx_periph_dio.o
+LOAD objs_BLUE/mwx_periph_buttons.o
+LOAD objs_BLUE/mwx_periph_analogue.o
+LOAD objs_BLUE/mwx_stream.o
+LOAD objs_BLUE/mwx_duplicate_checker.o
+LOAD objs_BLUE/settings/mwx_settings.o
+LOAD objs_BLUE/settings/mwx_stgs_standard.o
+LOAD objs_BLUE/settings/mwx_stgs_standard_core.o
+LOAD objs_BLUE/settings/mwx_stgs_standard_tbl.o
+LOAD objs_BLUE/boards/mwx_brd_pal_amb.o
+LOAD objs_BLUE/boards/mwx_brd_pal_mot.o
+LOAD objs_BLUE/boards/mwx_brd_pal_mag.o
+LOAD objs_BLUE/boards/mwx_brd_pal_notice.o
+LOAD objs_BLUE/boards/mwx_brd_monostick.o
+LOAD objs_BLUE/boards/mwx_brd_app_twelite.o
+LOAD objs_BLUE/networks/mwx_nwk_simple.o
+LOAD objs_BLUE/sensors/legacy/probe.o
+LOAD objs_BLUE/sensors/mwx_sns_MC3630.o
+LOAD objs_BLUE/sensors/mwx_sns_PCA9632.o
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a
+START GROUP
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTOF_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a
+LOAD C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libPDM_EEPROM_JN516x_NO_RTOS.a
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a
+LOAD C:/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a
+END GROUP
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libstdc++.a
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libm.a
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+                0x0000000000001000                _minimum_heap_size = 0x1000
+                0x0000000000000c00                _stack_size = 0xc00
+                0x0000000000080038                _exception_vsr_table = 0x80038
+                0x0000000004000000                pSPIflashFncTable = 0x4000000
+                0x0000000000001000                _minimum_heap_size = 0x1000
+                0x0000000000000c00                _stack_size = 0xc00
+                0x0000000000000044                restore_state = 0x44
+                0x000000000000004a                bZSPIWaitWIPClear = 0x4a
+                0x0000000000000050                u16ZSPIflashRDID = 0x50
+                0x0000000000000056                u8SelectFlashChipType = 0x56
+                0x000000000000005c                memcpy = 0x5c
+                0x0000000000000066                vBootFlashProg = 0x66
+                [0x0000000000001000]                _minimum_heap_size = DEFINED (_minimum_heap_size)?_minimum_heap_size:0xd16
+                0x0000000000000000                _SwConfig = (DEFINED (g_bSWConf_Debug) | (DEFINED (g_bSWConf_AltDebugPort) << 0x1))
+
+.version        0x000000000007fffc        0x4
+                0x000000000007fffc        0x4 LONG 0x4030008
+
+.bir            0x0000000000080000       0x10
+                0x0000000000080000                _flash_start = ABSOLUTE (.)
+                0x0000000000080000                _flash_beg = ABSOLUTE (.)
+                0x0000000000080000        0x4 LONG 0x12345678
+                0x0000000000080004        0x4 LONG 0x11223344
+                0x0000000000080008        0x4 LONG 0x55667788
+                0x000000000008000c        0x1 BYTE 0x8
+                0x000000000008000d        0x1 BYTE 0x1
+                0x000000000008000e        0x2 SHORT 0x0
+
+.flashheader    0x0000000000080010       0x28
+                0x0000000000080010        0x4 LONG 0x0
+                0x0000000000080014        0x4 LONG 0x0
+                0x0000000000080018        0x4 LONG 0x0
+                0x000000000008001c        0x2 SHORT 0x0
+                0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
+                0x0000000000080020                _enc_start = ABSOLUTE (.)
+                0x0000000000080020        0x4 LONG 0x15818 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x957d0 ABSOLUTE (_flash_data_start)
+                0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
+                0x000000000008002a        0x2 SHORT 0x12 ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
+                0x000000000008002c        0x2 SHORT 0x25 ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
+                0x000000000008002e        0x2 SHORT 0x624 ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x8c410 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x8e5ce ABSOLUTE (AppColdStart)
+                0x0000000000000000                _enc_offset = (_enc_start & 0xf)
+                0x0000000000000044                PROVIDE (vException_BusError, restore_state)
+                0x0000000000000044                PROVIDE (vException_UnalignedAccess, restore_state)
+                0x0000000000000044                PROVIDE (vException_IllegalInstruction, restore_state)
+                0x0000000000000044                PROVIDE (vException_SysCall, restore_state)
+                0x0000000000000044                PROVIDE (vException_Trap, restore_state)
+                0x0000000000000044                PROVIDE (vException_StackOverflow, restore_state)
+                0x0000000000080038                . = ABSOLUTE (_exception_vsr_table)
+
+.vsr_table      0x0000000000080038       0x18
+                0x0000000000080038        0x4 LONG 0x44 ABSOLUTE (vException_BusError)
+                0x000000000008003c        0x4 LONG 0x44 ABSOLUTE (vException_UnalignedAccess)
+                0x0000000000080040        0x4 LONG 0x44 ABSOLUTE (vException_IllegalInstruction)
+                0x0000000000080044        0x4 LONG 0x44 ABSOLUTE (vException_SysCall)
+                0x0000000000080048        0x4 LONG 0x44 ABSOLUTE (vException_Trap)
+                0x000000000008004c        0x4 LONG 0x44 ABSOLUTE (vException_StackOverflow)
+
+.vsr_handlers   0x0000000000080050       0xaa
+ *(.vsr_handlers)
+ .vsr_handlers  0x0000000000080050       0xaa C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000000080050                _exception_external_interrupt
+                0x00000000000800f8                _default_vsr_dummy
+
+.rodata         0x0000000000080100     0x1600
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000080100       0x1a C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+                                         0x1d (size before relaxing)
+ .rodata        0x000000000008011a      0x100 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x000000000008021a      0x192 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+                                        0x1a4 (size before relaxing)
+ .rodata        0x00000000000803ac        0x5 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+                0x00000000000803ac                _ZL9FOURCHARS.3554
+ .rodata        0x00000000000803b1       0x9a C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans2.ltrans.o
+ *fill*         0x000000000008044b        0x1 00
+ .rodata        0x000000000008044c       0xd4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans3.ltrans.o
+                0x000000000008044c                s_aprScanHandleEvt.21092
+                0x000000000008047c                apvActionCalls
+                0x0000000000080504                aprLPBMacVectorRamTable
+                0x0000000000080518                psTamMacContext
+                0x000000000008051c                psTAMcontext
+ .rodata        0x0000000000080520        0x4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans4.ltrans.o
+ .rodata.str1.1
+                0x0000000000080524      0x1bf C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans5.ltrans.o
+                                        0x1ca (size before relaxing)
+ .rodata.str1.1
+                0x00000000000806e3        0xd C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+ .rodata        0x00000000000806f0       0x14 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+ .rodata.str1.1
+                0x0000000000080704       0x40 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans7.ltrans.o
+                                         0x54 (size before relaxing)
+ .rodata        0x0000000000080744      0x114 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans8.ltrans.o
+                0x0000000000080744                au32TimerBaseAddress
+                0x0000000000080758                u8CRCTable.15604
+ .rodata.str1.1
+                0x0000000000080858       0x22 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+ *fill*         0x000000000008087a        0x2 00
+ .rodata        0x000000000008087c       0x38 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+                0x000000000008087c                asStateFuncTbl.11120
+ .rodata.str1.1
+                0x00000000000808b4       0x40 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+                                         0x43 (size before relaxing)
+ .rodata        0x00000000000808f4       0x2c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+                0x00000000000808f4                CSWTCH.35.31431.31431
+ .rodata        0x0000000000080920       0x1c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+                0x0000000000080920                psTamXcvContext
+ .rodata        0x000000000008093c       0x40 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans13.ltrans.o
+ .rodata.str1.1
+                0x000000000008097c      0x324 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans14.ltrans.o
+                                        0x331 (size before relaxing)
+ .rodata        0x0000000000080ca0      0x308 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans14.ltrans.o
+                0x0000000000080ca0                _ZL8pSetList.6887
+                0x0000000000080ca4                _ZL8APP_NAME.3555
+                0x0000000000080cb0                _ZL14SetList_SINGLE.6888
+ .rodata.str1.1
+                0x0000000000080fa8      0x195 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans15.ltrans.o
+                                        0x19d (size before relaxing)
+ .rodata        0x000000000008113d       0x60 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans15.ltrans.o
+                0x000000000008113d                menu_string.14640
+ .rodata        0x000000000008119d        0x6 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans16.ltrans.o
+                0x000000000008119d                aeXcvPhyEvtToScanEvt.5394.21095
+ *fill*         0x00000000000811a3        0x1 00
+ .rodata        0x00000000000811a4        0xc C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+ .rodata.str1.1
+                0x00000000000811b0       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o
+ *fill*         0x00000000000811c2        0x6 00
+ .rodata        0x00000000000811c8       0x88 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o
+ .rodata.str1.1
+                0x0000000000081250       0x11 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+ *fill*         0x0000000000081261        0x3 00
+ .rodata        0x0000000000081264       0x7c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+                0x0000000000081298                u32MacLow_TOCOS
+                0x000000000008129c                u32MacHigh_TOCOS
+ .rodata.str1.1
+                0x00000000000812e0       0x14 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans20.ltrans.o
+                                         0x16 (size before relaxing)
+ .rodata        0x00000000000812f4        0x5 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans20.ltrans.o
+                0x00000000000812f4                gbHighPowerMode
+                0x00000000000812f5                gu8ModuleID
+ .rodata.str1.1
+                0x00000000000812f9       0x7c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans21.ltrans.o
+                                         0x8a (size before relaxing)
+ .rodata.str1.1
+                0x0000000000081375       0xc4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+ *fill*         0x0000000000081439        0x3 00
+ .rodata        0x000000000008143c       0x7c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+                0x000000000008143c                psIntr.13973
+ .rodata        0x00000000000814b8        0xa C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans23.ltrans.o
+ .rodata.str1.1
+                0x00000000000814c2      0x118 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans24.ltrans.o
+                                        0x11b (size before relaxing)
+ .rodata        0x00000000000815da      0x100 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans24.ltrans.o
+ .rodata.str1.1
+                0x0000000000000000       0x11 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans25.ltrans.o
+ .rodata.str1.1
+                0x0000000000000000       0x29 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans26.ltrans.o
+ .rodata.str1.1
+                0x00000000000816da       0x1d C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans28.ltrans.o
+ *fill*         0x00000000000816f7        0x1 00
+ .rodata        0x00000000000816f8        0x8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans28.ltrans.o
+                0x00000000000816f8                au32UartAddrOffset
+
+.text           0x0000000000081700    0x140cf
+ *(.text*)
+ .text          0x0000000000081700     0x1260 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+                0x0000000000081700                _out_fct.15405
+                0x0000000000081712                _out_null.15411
+                0x0000000000081715                _out_buffer.15399
+                0x00000000000817ac                _TWE_fputs
+                0x00000000000817cb                vOutputStream.14683
+                0x00000000000817d7                TWEINTCT_vProcessInputString_defmenus
+                0x0000000000081800                TWEINTCT_vProcessInputString_settings
+                0x00000000000818ad                vHandlerPatch.13054
+                0x00000000000819b8                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vHwEventEPvmm.local.284
+                0x00000000000819bb                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE17_cbTweNet_u8HwIntEPvmm.local.283
+                0x00000000000819c0                _ZN3mwx2L112StgsStandard7_serial5_readEPv.local.110
+                0x00000000000819f3                TWEINTCT_u32ProcessMenuEvent_hw(_TWEINTRCT_sContext*, unsigned long, unsigned long, unsigned long, void*)
+                0x00000000000819f8                TWEINTCT_vProcessInputString_hw(_TWEINTRCT_sContext*, _tsInpStr_Context*)
+                0x00000000000819fb                _ZN3mwx2L112StgsStandard7_serial10_availableEPv.local.113
+                0x0000000000081a0e                mwx::L1::StgsStandard::_vProcessInputByte(_TWEINTRCT_sContext*, short)
+                0x0000000000081a46                _ZN3mwx2L114processev_crtpINS0_12StgsStandardEE14vProcessEvCoreEP8_tsEvent7teEventm.local.282
+                0x0000000000081a49                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vHwEventEPvmm.local.280
+                0x0000000000081a4c                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE17_cbTweNet_u8HwIntEPvmm.local.279
+                0x0000000000081a51                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.295
+                0x0000000000081a6b                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.296
+                0x0000000000081a7c                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE15_cbTweNet_vMainEPv.local.297
+                0x0000000000081a7f                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.298
+                0x0000000000081a82                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.299
+                0x0000000000081a85                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.300
+                0x0000000000081a88                _ZN3mwx2L110serial_jen7vOutputEcPv.local.301
+                0x0000000000081a94                TWESTGS_VLD_u32String
+                0x0000000000081add                _out_rev.15417
+                0x0000000000081cee                _ntoa_long_long.15453
+                0x0000000000081dc5                _ntoa_long.15441
+                0x0000000000081e9a                _etoa.15499
+                0x0000000000082255                TWESTR_i32DecstrToNum
+                0x00000000000822a4                TWESTG_vSetUDatumFrUDatum
+                0x00000000000822ed                TWESTGS_VLD_u32MinMax
+                0x000000000008236e                TWESTGS_VLD_u32AppId
+                0x00000000000823c5                TWESTG_u32GetU32FrUDatum
+                0x0000000000082418                s_iConvBytesToDatum.14804
+                0x000000000008249e                s_u32ElementsListAdd
+                0x0000000000082623                TWEINTRCT_u32MenuChange
+                0x000000000008265e                u8CCITT8
+                0x0000000000082684                Mac_vInit
+                0x00000000000826d0                bAES_CCM_KeyReg
+                0x000000000008270f                bFifoPush.11764
+                0x0000000000082748                vAppQApiPostMlme.11750
+                0x0000000000082767                vAppQApiPostMcps.11757
+                0x0000000000082782                pvFifoPull.11761
+                0x00000000000827a9                psAppQApiGetMlmeBuffer.11747
+                0x00000000000827b1                psAppQApiGetMcpsBuffer.11754
+                0x00000000000827b9                _PRSEV_vProcessEvSingle
+                0x00000000000827c7                ToCoNet_vMacStart
+                0x00000000000827d4                PRSEV_vSetState
+                0x00000000000827e4                mwx::L1::duplciate_checker::_node_ele_init(mwx::L1::duplciate_checker::_node_ele*)
+                0x0000000000082803                _ZN3mwx2L113serial_parserINS0_10alloc_heapIhEEEC1Ev.local.128
+                0x0000000000082825                _ZN3mwx2L16twenetC1Ev.local.132
+                0x00000000000828ad                _ZN3mwx2L112appdefs_virt8on_eventEmRm.local.174
+                0x00000000000828bf                _ZN3mwx2L112appdefs_virt18cbToCoNet_vTxEventERNS0_12packet_ev_txE.local.177
+                0x00000000000828d1                _ZN3mwx2L112appdefs_virt19cbToCoNet_vNwkEventERNS0_13packet_ev_nwkE.local.179
+                0x00000000000828e3                _ZN3mwx2L112appdefs_virt5setupEv.local.181
+                0x00000000000828fe                _ZN3mwx2L110serial_jen5flushEv.local.186
+                0x000000000008290d                _ZN3mwx2L18_smplbufIhNS0_12alloc_attachIhEEE9push_backEOh.local.225
+                0x000000000008292a                _ZN3mwx2L18settings10find_by_idEh.local.267
+ .text.unlikely
+                0x0000000000082960       0x70 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+                0x0000000000082960                _PRSEV_vProcessEvSingleH
+                0x0000000000082970                _PRSEV_vProcessEv
+                0x0000000000082980                PRSEV_u8Register
+                0x00000000000829be                _ZN3mwx2L112appdefs_virt18cbToCoNet_vRxEventERNS0_9packet_rxE.local.178
+ .text.unlikely
+                0x00000000000829d0      0xc40 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+                0x00000000000829d0                loop()
+ .text          0x0000000000083610      0xcfb C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans2.ltrans.o
+                0x0000000000083610                vTTIBLETimerExpired
+                0x000000000008361b                vACI_CmdWaitBusy
+                0x0000000000083628                vEcbEncodeStripe.30656
+                0x000000000008367f                vTAIdisableInterrupt
+                0x0000000000083698                vUpdateRegisters.30346
+                0x00000000000836df                psRemove.part.0.30296
+                0x000000000008370e                vMAC_MISCpollConfirm
+                0x0000000000083740                MAC_u8AclFindInfo
+                0x000000000008386a                vTASretrieveSecurity
+                0x000000000008388c                MAC_bLookUpKeyDescriptor.27848
+                0x0000000000083906                u8TSCframeIncrease
+                0x000000000008393f                vCopyToDataFromMacAddr.27758
+                0x0000000000083972                bTSCgetOutgoingInfo
+                0x0000000000083a7b                psTAQsearchFifo
+                0x0000000000083ac4                bTAQremoveFromFifo
+                0x0000000000083b01                vTAMinsertEvent
+                0x0000000000083b67                vTTITimer2Expired
+                0x0000000000083b6b                vTTITimer1Expired
+                0x0000000000083b6f                vTAM_TxRetryTimeout
+                0x0000000000083b73                vTACsetTxFrameDefaults
+                0x0000000000083b99                u8TACgetHeaderSize
+                0x0000000000083bd6                bUpdateTime.26076
+                0x0000000000083c11                u32TACpayloadToU32M
+                0x0000000000083c32                vTACu32ToPayloadM
+                0x0000000000083c4a                vTACbuildBeacon
+                0x0000000000083e52                bTACframeInProgress
+                0x0000000000083e7c                bTACassessBeaconForPayload
+                0x0000000000083ecd                bIsBbcSafeForTx
+                0x0000000000083f02                vTATwriteAclMaterialToHardware
+                0x0000000000083f27                vTATsetBLE
+                0x0000000000083f5e                vTATgetFramePayload
+                0x0000000000083f7b                eTATreadTXstatus
+                0x0000000000083fc1                vTAHsetPhyStateDirect.part.0.25217
+                0x0000000000083fdd                vDoGoOff.27038
+                0x0000000000083ff7                vMLMErxEnableConfirm
+                0x000000000008402b                vMLMEcommStatus
+                0x0000000000084090                vMLMEcommStatusFromFrame
+                0x00000000000840d4                vTSCpostTransmitUpdate
+                0x0000000000084103                vMLMEsyncLoss
+                0x0000000000084138                vMEMreturn
+                0x00000000000841a9                vTACinformOriginator
+                0x00000000000841cb                vTTITransactionTimerExpired
+                0x00000000000841f3                pvMEMget
+                0x000000000008421f                vTAMDEdetermineNullState
+                0x0000000000084239                vTAMCOupdatePendingList
+ *fill*         0x000000000008430b        0x1 00
+ .text          0x000000000008430c      0xba4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans3.ltrans.o
+                0x000000000008430c                eWBRTTxDone.20749
+                0x000000000008432a                vTAMCOframeTXgoingIdle
+                0x0000000000084343                vTAMCOframeTXcap
+                0x0000000000084367                eWCoRRxDone.20740
+                0x0000000000084411                eWBcnRxDone.20752
+                0x00000000000849fe                vTAMCOframeRXcap
+                0x0000000000084a10                vTAMCOframeRXgoingIdle
+                0x0000000000084a26                vTAMCOframeRXnobeacon
+                0x0000000000084a38                vTAMDEframeRX
+                0x0000000000084a60                vTAMDEframeRXtrackingDR
+                0x0000000000084aa3                vTAMDEframePreSyncReq
+                0x0000000000084abb                vTAMCOframeTXbeacon
+                0x0000000000084b82                vTAMDEframeRXsyncReq
+                0x0000000000084dd1                vTAMDEint1FiredTrackingCAPgts
+                0x0000000000084e82                eWONTTxDone.20746
+ .text          0x0000000000084eb0      0xb2e C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans4.ltrans.o
+                0x0000000000084eb0                vTACintRXheader
+                0x00000000000856ab                vTAMCOreqTXinCAP
+                0x00000000000856d2                vTrySendFromDirectCAP.23331
+                0x00000000000856ef                vTrySendFromDirectNoBeacon.23335
+                0x000000000008571c                vTAMCOint1Fired
+                0x0000000000085838                vTAMCOstartBeacon
+                0x0000000000085873                vStartStoreValues.23399
+                0x000000000008592a                bStartCallback.23428
+                0x0000000000085959                vTAMCOint1FiredCAP
+                0x00000000000859cc                vTAMCOreqTXnoBeacon
+ *fill*         0x00000000000859de        0x2 00
+ .text          0x00000000000859e0      0x7a4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans5.ltrans.o
+                0x00000000000859e0                TWEINTCT_vSerUpdateScreen_hw(_TWEINTRCT_sContext*)
+                0x0000000000085a34                TWEINTRCT_bSetInteractive
+                0x0000000000085a83                TWEINTRCT_u32MenuOpKey
+                0x0000000000085b28                _ZN3mwx2L16streamINS0_10serial_jenEElsERNS0_18MWX_Stream_EndLineE.isra.49.2687
+                0x0000000000085b44                cbAppWarmStart.part.26.4509
+                0x0000000000085d9f                s_TWEINTCT_vSerUpdateScreen_settings.14003
+                0x000000000008617f                TWEINTCT_vSerUpdateScreen_settings
+ .text          0x0000000000086184      0xa21 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+                0x00000000000861d9                _ZN3mwx2L114processev_crtpINS0_9NwkSimpleEE14vProcessEvCoreEP8_tsEvent7teEventm.local.287
+                0x000000000008628c                vXCV_IntHandlerBbc
+                0x000000000008632f                vHnd_E_STATE_RUNNING.11095
+                0x000000000008652d                vAHI_ApConfigure.part.0.30775.constprop.421
+                0x000000000008655f                TWESYSUTL_vWaitPoll
+                0x00000000000865ff                _ZL5delaym.6237
+                0x000000000008662a                _ZN3mwx2L114periph_twowireILi32EE5beginEv.local.100.constprop.382
+                0x0000000000086656                bAHI_ReadMACID
+                0x000000000008669c                bSMBusWait.1328
+                0x00000000000866d3                bSMBusWrite
+                0x000000000008674d                vTAMRXEsetPhy
+                0x0000000000086810                vTAHsetPhyState
+                0x0000000000086840                vTAMCOint2Fired
+                0x0000000000086860                vSetPHYfromMacValue.23874
+                0x0000000000086892                vTAMDEint1FiredWaitDR
+                0x000000000008689f                vTACsetPHYfromMacValue
+                0x00000000000868c0                vTAMRXEsetReceiveForPibChange
+                0x0000000000086900                _ZL17delayMicrosecondsm.2643.constprop.431
+                0x0000000000086984                vMLMEbeaconNotify
+                0x0000000000086ae2                vMCPSframeReceived
+ .text.unlikely
+                0x0000000000086ba5       0x65 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+                0x0000000000086ba5                _ZL5delaym.2615
+                0x0000000000086bd0                random(unsigned long, unsigned long)
+ .text          0x0000000000086c0a      0x3db C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans7.ltrans.o
+                0x0000000000086c0a                TWEINTCT_u32ProcessMenuEvent_settings
+                0x0000000000086c47                TWEINTRCT_vSerHeadLine
+                0x0000000000086d71                TWEINTCT_vSerUpdateScreen_defmenus
+                0x0000000000086ec4                TWEINTCT_vSerUpdateScreen_nvmutils
+ .text          0x0000000000086fe5      0x8d1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans8.ltrans.o
+                0x0000000000086fe5                bAES_CCM_DecodeKey
+                0x0000000000087133                SERIAL_vTxReady
+                0x000000000008716b                vHnd_E_STATE_FINISH_TX_FAIL.11064
+                0x0000000000087221                vHnd_E_STATE_FINISH_TX_SUCCESS.11069
+                0x00000000000872b3                _ZN3mwx2L110serial_jen6_beginEv.part.19.4191
+                0x00000000000875b9                TWESTG_cbu32SaveSetting.constprop.333
+                0x000000000008760b                cbAppColdStart.part.28.4604
+ .text.unlikely
+                0x00000000000878b6      0x178 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans8.ltrans.o
+                0x0000000000087926                bStartXtal32k.31107
+ .text          0x0000000000087a2e      0xd11 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+                0x0000000000087a2e                TSV_eStart
+                0x0000000000087b12                eTAStransmitRequest
+                0x0000000000087ead                vPMICassocReqTO_1.19173
+                0x0000000000087f35                vTAM_MCPSdataRequest
+                0x0000000000087f78                bTACcheckPANconflict
+                0x0000000000088031                TSV_eOpen
+                0x0000000000088039                vAppApiDefRestoreMacSettings
+                0x000000000008810a                vAppApiDefSaveMacSettings
+                0x0000000000088167                mac_vLPBSleep
+                0x00000000000881ab                pvAppApiDefGetMacAddrLocation
+                0x00000000000881b4                eAppApiDefPlmeGet
+                0x0000000000088206                eAppApiDefPlmeSet
+                0x000000000008825f                vAppApiDefMcpsRequest
+                0x000000000008828a                vHnd_E_STATE_PREPARE_TX.11074
+ .text          0x000000000008873f      0xa45 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+                0x000000000008873f                bAES_CCM_EncodeKey
+                0x00000000000887ec                ToCoNet_vInit
+                0x0000000000088b2f                _ZN3mwx2L114periph_twowireILi32EE8_init_hwEb.isra.18.6301.constprop.385
+                0x0000000000088b60                vExpireHead.30301
+                0x0000000000088b90                bAHI_SiMasterSetCmdReg.constprop.468
+                0x0000000000088bd1                u8CRC8.1509.constprop.466
+                0x0000000000088c0c                vSHT31_Init.constprop.465
+                0x0000000000088c64                MWX_DebugMsg
+                0x0000000000088cb2                vMicroIntEnableOnly.constprop.459
+                0x0000000000088cde                QUEUE__u8RemoveItem
+                0x0000000000088d38                QUEUE__vAddItem.constprop.451
+                0x0000000000088d6a                _ToCoNet_bRfChChannel
+                0x0000000000088e01                ToCoNet_ChMgr_bCh_Reconfig
+                0x0000000000088e69                ToCoNet_ChMgr_vCh_TxFin
+                0x0000000000088e95                vHnd_E_STATE_WAIT_TX.11087
+                0x0000000000088f05                vHnd_E_STATE_IDLE.11079
+                0x0000000000088f69                vAHI_ProtocolPower.constprop.458
+                0x0000000000088f77                XCV_vCtor.constprop.456
+                0x00000000000890dc                vAHI_Sleep
+ .text.unlikely
+                0x0000000000089184      0x235 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+                0x00000000000891c9                u32AppQApiInitInt_PATCH
+                0x00000000000891d8                _ZN3mwx2L110twenet_mac8transmitERNS0_9packet_txE.local.74.constprop.450
+ *fill*         0x00000000000893b9        0x3 00
+ .text          0x00000000000893bc      0xaf4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+                0x0000000000089405                vProcessEvCoreTx.11056
+                0x000000000008948a                TWESTGS_VLD_u32ChList
+                0x00000000000895ab                bAHI_SetClockRate
+                0x00000000000896b6                vAHI_WakeTimerEnable.part.0.31747.constprop.426
+                0x00000000000896fb                mac_vLPBStartTimer
+                0x00000000000897e0                _ZN3mwx2L115periph_analogue10_adc_startEv.local.119.constprop.405
+                0x00000000000898c9                mwx::L1::periph_analogue::ADC_handler(unsigned long, unsigned long)
+                0x0000000000089910                u8HwEventHandler.10408
+                0x00000000000899b5                _ZN3mwx2L16streamINS0_10serial_jenEElsEONS0_10mwx_formatE.local.28
+                0x00000000000899e9                vAHI_SiMasterConfigure.constprop.387
+                0x0000000000089a1d                _ZN3mwx2L16twenet5beginEv.local.157.constprop.381
+                0x0000000000089a62                pinMode(unsigned char, mwx::L1::enum_wapper<PIN_MODE::eMWX_DIO_MODE, unsigned char>)
+                0x0000000000089bd8                vTimerStart
+                0x0000000000089cd2                vAHI_TimerEnable.part.1.31298.constprop.354
+                0x0000000000089d3d                TWEINTRCT_vSerFootLine.constprop.332
+                0x0000000000089de1                bAES_CCMstar
+ .text.unlikely
+                0x0000000000089eb0       0x7a C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+                0x0000000000089eb0                _ZN3mwx2L110sns_legacyI15tsObjData_SHT31XadL_Z11vSHT31_InitEEXadL_Z12vSHT31_FinalEEXadL_ZNS_16sns_proble_sht3xEmEEE11_ev_processEP8tsSnsObj7teEvent.isra.52.2694.constprop.414
+                0x0000000000089eed                _ZN3mwx2L110sns_legacyI16tsObjData_BME280XadL_Z12vBME280_InitEEXadL_Z13vBME280_FinalEEXadL_ZNS_16sns_probe_bme280EmEEE11_ev_processEP8tsSnsObj7teEvent.isra.55.2705.constprop.411
+ *fill*         0x0000000000089f2a        0x2 00
+ .text          0x0000000000089f2c      0xa44 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+                0x0000000000089f2c                vTAMDEstartSync
+                0x0000000000089fab                eTAMselect
+                0x000000000008a0ec                MAC_pvCtor
+                0x000000000008a507                u32AppApiDefInit
+                0x000000000008a5bc                _ToCoNet_vMacInit
+                0x000000000008a622                _ToCoNet_vRfConfig
+                0x000000000008a772                vDeterminePowerState.23998
+                0x000000000008a7f6                vTAMDEint1FiredTrackingBeacon
+                0x000000000008a896                vTAMDEint2FiredTrackingDR
+                0x000000000008a8bb                vTAMDEframeTXtrackingDR
+                0x000000000008a914                vTAMDEint2FiredPollActive
+                0x000000000008a948                vTAMDEreqTXnullTrackingCAP
+                0x000000000008a961                vTAM_TxRetryTimer
+ .text          0x000000000008a970      0xa18 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans13.ltrans.o
+                0x000000000008a970                UART_vHandleUartInterrupt.13182
+                0x000000000008a9f7                vXCV_IntHandlerPhy
+                0x000000000008aaa9                vScanHandleTimer.20349
+                0x000000000008aaae                TWENVM_bRead
+                0x000000000008ab55                TWESTG_u32LoadDataFrAppstrgSingle.constprop.445
+                0x000000000008acfc                TWENVM_bErase
+                0x000000000008ad0d                u32AHI_ReadIndexSectorBits.constprop.311
+                0x000000000008ad6e                vTAIsetCapTime
+                0x000000000008ad8f                vTAIsetRxEnableTime
+                0x000000000008adb0                vDoGoActive.27040
+                0x000000000008add2                vTAMRXEint2Fired
+                0x000000000008ae08                bSMBusSequentialRead
+                0x000000000008ae6b                vProcessSnsObj_SHT31.1534
+                0x000000000008afc3                vProcessSnsObj_BME280.1672
+                0x000000000008b30e                _ZN3mwx2L115periph_analogue5setupEbhPFvvE.local.165.constprop.403
+ .text          0x000000000008b388      0x80f C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans14.ltrans.o
+                0x000000000008b4c3                vProcessEvCoreMac
+                0x000000000008b52b                _ZN3mwx2L123twenet_instance_manager3useINS0_9NwkSimpleEEERT_v.local.226.constprop.388
+                0x000000000008b667                setup()
+ .text          0x000000000008bb97      0x7a5 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans15.ltrans.o
+                0x000000000008bb97                TWEINTCT_vProcessInputByte_settings
+                0x000000000008c0f2                TWEINTCT_vProcessInputByte_defmenus
+                0x000000000008c1d0                TWEINTCT_vProcessInputByte_nvmutils
+ .text          0x000000000008c33c      0xa84 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans16.ltrans.o
+                0x000000000008c33c                vPostDcfm.20736
+                0x000000000008c410                AppWarmStart
+                0x000000000008c4e0                vSetNextChannel.20784
+                0x000000000008c539                MAC_vHandleMlmeReqRsp
+                0x000000000008cce9                vTAMDEint1FiredTracking
+                0x000000000008cd59                vTAMDEint1FiredSyncReq
+ .text          0x000000000008cdc0      0xac1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+                0x000000000008d01c                vTimerCallback.31083
+                0x000000000008d092                EEP_6x_bRW_core.32466
+                0x000000000008d1ff                pvHeap_Alloc
+                0x000000000008d201                operator new(unsigned long)
+                0x000000000008d224                u32AHI_Init
+                0x000000000008d2e6                vMicroIntRestoreState
+                0x000000000008d2f2                vAHI_TickTimerIntEnable
+                0x000000000008d34d                vAHI_TickTimerConfigure
+                0x000000000008d368                bAHI_SiMasterPollTransferInProgress
+                0x000000000008d375                vAHI_DoSetDataOut
+                0x000000000008d389                bAHI_DoEnableOutputs
+                0x000000000008d3b2                u8AHI_WakeTimerFiredStatus
+                0x000000000008d3c6                vAHI_WakeTimerStop.part.3.31763
+                0x000000000008d3e6                mac_vLPBStopTimer
+                0x000000000008d3f0                vAHI_UartSetRTSCTS.part.15.31544
+                0x000000000008d417                vAHI_UartReset.part.4.31517
+                0x000000000008d44f                vAHI_UartSetControl.part.2.31501
+                0x000000000008d4a0                vAHI_UartSetBaudDivisor.part.1.31497
+                0x000000000008d4df                vAHI_TimerStop.part.7.31327
+                0x000000000008d4fd                vAHI_TimerDisable.part.2.31306
+                0x000000000008d520                vAHI_WatchdogStop
+                0x000000000008d537                vAHI_CpuDoze
+                0x000000000008d54a                vAHI_SwReset
+                0x000000000008d57a                _ZN3mwx2L120periph_pulse_counter10_on_wakeupEv.part.12.4172
+                0x000000000008d5f0                u32AHI_DioWakeStatus
+                0x000000000008d601                vAHI_DioWakeEdge
+                0x000000000008d621                vAHI_DioSetPullup
+                0x000000000008d641                vAHI_DioSetOutput
+                0x000000000008d655                vAHI_DioSetDirection
+                0x000000000008d669                vACI_OptimisedCcmStar
+ .text.unlikely
+                0x000000000008d881       0x11 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+                0x000000000008d881                vStartXtal32kExternalRc.31097
+ .text          0x000000000008d892      0xd3c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o
+                0x000000000008d892                mac_vLPBAdjustBeaconOffset
+                0x000000000008d8ef                mac_u32LPBGetBeaconTimeout
+                0x000000000008d8f8                eWEnDTmrExpiry.20733
+                0x000000000008d903                eWEnDEdDone.20730
+                0x000000000008d95e                eGenlDontCare.20727
+                0x000000000008d963                eGenlIllegal.20352
+                0x000000000008d96a                u32GetTimer0
+                0x000000000008d971                vSetTimer0
+                0x000000000008d980                vTAMCOsetCoordinator
+                0x000000000008d9a6                vPhySetChannel
+                0x000000000008d9bf                eScanHandleEvt.part.0.20763
+                0x000000000008d9e8                mac_eDcfmIndPost
+                0x000000000008da09                mac_psDcfmIndGetBuf
+                0x000000000008da2a                vPMICpostFailedAssocDcfm
+                0x000000000008da62                vPMICassocReqTO_2.19180
+                0x000000000008da79                MAC_vPibSetPanId
+                0x000000000008da94                vHandleTofRequest.17286
+                0x000000000008da97                vAppApiDefSetPrbsSeed
+                0x000000000008dabb                TWE_CRC8_u8CalcU32
+                0x000000000008daf8                _ftoa.15479
+                0x000000000008de68                _vsnprintf
+                0x000000000008e4cd                fctprintf
+                0x000000000008e4f7                _ZN3mwx2L111_printobj_2ImmE9_do_printEPvPFvcS3_ES3_.local.294
+                0x000000000008e50e                _ZN3mwx2L111_printobj_1ItE9_do_printEPvPFvcS3_ES3_.local.293
+                0x000000000008e522                _ZN3mwx2L111_printobj_2IttE9_do_printEPvPFvcS3_ES3_.local.292
+                0x000000000008e539                _ZN3mwx2L111_printobj_1ImE9_do_printEPvPFvcS3_ES3_.local.291
+                0x000000000008e54d                _ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_.local.290
+                0x000000000008e561                _ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_.local.289
+                0x000000000008e578                _ZN3mwx2L111_printobj_2IPcmE9_do_printEPvPFvcS4_ES4_.local.288
+                0x000000000008e58f                _ZN3mwx2L111_printobj_2IiiE9_do_printEPvPFvcS3_ES3_.local.112
+                0x000000000008e5a6                snprintf_
+ .text          0x000000000008e5ce      0x53c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+                0x000000000008e5ce                AppColdStart
+ .text.unlikely
+                0x000000000008eb0a      0x3fa C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+                0x000000000008eb0a                ToCoNet_vStart
+ .text          0x000000000008ef04      0x8bd C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans20.ltrans.o
+                0x000000000008ef31                vAppQApiPostHwIntT.11743
+                0x000000000008f005                vRxChar.13079
+                0x000000000008f056                TWETERM_iGetC.15304
+                0x000000000008f0b5                _ZN3mwx2L112periph_timer9_on_sleepEv.local.170
+                0x000000000008f114                ToCoNet_vSleep.constprop.422
+                0x000000000008f257                _ZN3mwx2L114periph_twowireILi32EE9busy_waitEv.isra.4.9865
+                0x000000000008f29a                _ZN3mwx2L114periph_twowireILi32EE17beginTransmissionEh.local.27
+                0x000000000008f2cc                _ZN3mwx2L114periph_twowireILi32EE14cmd_tx_no_stopEv.isra.9.9871
+                0x000000000008f2ed                _ZN3mwx2L114periph_twowireILi32EE11cmd_tx_stopEv.isra.8.9869
+                0x000000000008f30e                _ZN3mwx2L114periph_twowireILi32EE5probeEh.part.5.9330.constprop.399
+                0x000000000008f335                _ZN3mwx2L110sns_legacyI16tsObjData_BME280XadL_Z12vBME280_InitEEXadL_Z13vBME280_FinalEEXadL_ZNS_16sns_probe_bme280EmEEE5probeEv.local.250.constprop.396
+                0x000000000008f363                _ZN3mwx2L110sns_legacyI15tsObjData_SHT31XadL_Z11vSHT31_InitEEXadL_Z12vSHT31_FinalEEXadL_ZNS_16sns_proble_sht3xEmEEE5probeEv.local.251.constprop.397
+                0x000000000008f391                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
+                0x000000000008f403                phy_ePibSet.part.1.22559
+                0x000000000008f44b                _ZN3mwx2L115periph_analogue5beginEv.local.161.constprop.402
+                0x000000000008f4b6                _ZL13s_appLoadDatahhh.6232
+ *fill*         0x000000000008f7c1        0x3 00
+ .text          0x000000000008f7c4      0xa60 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans21.ltrans.o
+                0x000000000008f7c4                cbToCoNet_vTxEvent
+                0x000000000008f8a9                vTimerConfig
+                0x000000000008fa37                _ZN3mwx2L112periph_timer10_on_wakeupEv.local.172
+                0x000000000008fa6f                TWE_fprintf
+                0x000000000008faac                MWX_Panic
+                0x000000000008fb18                s_bDumpSector.14605
+                0x000000000008fb8f                TWEINTCT_vProcessInputString_nvmutils
+                0x000000000008fd84                vBME280_Init.constprop.464
+                0x000000000008ff8c                _Z41__static_initialization_and_destruction_0ii.part.29.4609
+                0x000000000009016c                _MWX_vOnSleep()
+ .text          0x0000000000090224      0x656 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+                0x0000000000090224                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.285
+                0x0000000000090738                vAppApiDefMlmeRequest
+                0x0000000000090763                pvAppApiDefGetMacHandle
+                0x000000000009076c                mwx::L1::StgsStandard::_setup()
+                0x000000000009085e                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE9_on_eventEPvmRm.local.278
+ *fill*         0x000000000009087a        0x2 00
+ .text.unlikely
+                0x000000000009087c      0x30c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+                0x0000000000090899                vProcessIncomingHwEvent.10577
+ .text          0x0000000000090b88      0x8e4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans23.ltrans.o
+                0x0000000000090ce8                bTAM_AES_CCMstarPatch
+                0x0000000000090e2c                bTAM_AES_CCMstarPatch2006
+                0x0000000000090f33                vWriteFrame.25576
+                0x000000000009110b                bTATsendFrame
+                0x000000000009115e                vTrySendUnslotted.23876
+                0x0000000000091178                bSendDataRequest.23878
+                0x000000000009128a                bProcessBeaconRX.23881
+                0x000000000009135b                _MWX_periph_init()
+                0x000000000009141e                _ZN3mwx2L110serial_jen5beginEmh.part.20.4212.constprop.361
+ .text          0x000000000009146c      0x4fb C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans24.ltrans.o
+                0x000000000009146c                TWEINTCT_vProcessInputByte_hw(_TWEINTRCT_sContext*, short)
+ .text          0x0000000000091967      0x856 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans25.ltrans.o
+                0x0000000000091967                ToCoNet_vMain
+ .text          0x00000000000921bd      0x4c2 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans26.ltrans.o
+                0x00000000000921bd                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE15_cbTweNet_vMainEPv.local.281
+ *fill*         0x000000000009267f        0x1 00
+ .text          0x0000000000092680      0x78c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans27.ltrans.o
+                0x0000000000092680                eGenTmrExpiry.21045
+                0x00000000000926c2                eWEDTEdDone.21048
+                0x00000000000926e6                TSV_eStop
+                0x00000000000927a5                bPMICdisassocReqSent.19169
+                0x000000000009285f                MAC_vHandleMcpsReqRsp
+                0x00000000000928ed                bMCPSframeTXcomplete.21780
+                0x0000000000092942                bSendSyncLoss.26011
+                0x000000000009295a                bPollReqSent.29607
+                0x0000000000092972                bTASsendCommStatusInd
+                0x0000000000092987                bAssocRespSent.19165
+                0x000000000009299a                eTACprocessFrameTXcomplete
+                0x0000000000092b19                vTAMCOframeTXnobeacon
+                0x0000000000092b30                vTAMCOframeStarting
+                0x0000000000092b4a                vTAMDEframeTXDEnull
+                0x0000000000092b6f                vTAMDEframeTXtrackingCAPgts
+                0x0000000000092b9e                bPMICassocReqSent.19161
+                0x0000000000092c20                bPMICassocReqPollSent.19176
+                0x0000000000092c74                eWChCChanChgd.20760
+ .text          0x0000000000092e0c      0x39d C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans28.ltrans.o
+                0x0000000000092e57                SERIAL_bTxChar
+                0x0000000000092ef9                TWETERM_iPutS.15296
+                0x0000000000092f1e                TWETERM_iPutC.15300
+                0x0000000000092f2f                TWETERM_vFlush.15273
+                0x0000000000092fad                eGenRxHdrDone.20743
+                0x0000000000092fbd                _ZN3mwx2L16streamINS0_10serial_jenEElsERNS0_18MWX_Stream_EndLineE.isra.6.6286
+                0x0000000000092fd9                _ZN3mwx2L16streamINS0_10serial_jenEE6_printEPKc.local.20
+                0x0000000000092ffe                TWEINTRCT_cbu32GenericHandler
+                0x000000000009315b                TWEINTCT_u32ProcessMenuEvent_defmenus
+                0x0000000000093182                TWEINTCT_u32ProcessMenuEvent_nvmutils
+ .text          0x00000000000931a9       0x25 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x00000000000931a9                memcmp
+ .text          0x00000000000931ce       0x19 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x00000000000931e7       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                0x00000000000931e7                strlen
+ *fill*         0x00000000000931f9        0x3 00
+ .text          0x00000000000931fc      0x204 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x00000000000931fc                __udivsi3
+ .text          0x0000000000093400       0x30 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                0x0000000000093400                __divsi3
+ .text          0x0000000000093430      0x1b0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x0000000000093430                __umodsi3
+ .text          0x00000000000935e0       0x24 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                0x00000000000935e0                __modsi3
+ .text          0x0000000000093604       0x52 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+                0x0000000000093604                __muldi3
+ .text          0x0000000000093656       0x39 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+                0x0000000000093656                __fixunsdfsi
+ .text          0x000000000009368f      0x350 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                0x000000000009368f                __udivdi3
+ .text          0x00000000000939df      0x312 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+                0x00000000000939df                __umoddi3
+ .text          0x0000000000093cf1      0x682 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+                0x0000000000093cf1                __adddf3
+ *fill*         0x0000000000094373        0x1 00
+ .text          0x0000000000094374      0x5c8 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+                0x0000000000094374                __divdf3
+ .text          0x000000000009493c       0x7f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+                0x000000000009493c                __nedf2
+                0x000000000009493c                __eqdf2
+ .text          0x00000000000949bb       0xca c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+                0x00000000000949bb                __gedf2
+                0x00000000000949bb                __gtdf2
+ .text          0x0000000000094a85       0xcb c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+                0x0000000000094a85                __ledf2
+                0x0000000000094a85                __ltdf2
+ .text          0x0000000000094b50      0x488 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+                0x0000000000094b50                __muldf3
+ .text          0x0000000000094fd8      0x693 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+                0x0000000000094fd8                __subdf3
+ .text          0x000000000009566b       0x64 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+                0x000000000009566b                __fixdfsi
+ .text          0x00000000000956cf       0x61 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+                0x00000000000956cf                __floatsidf
+ .text          0x0000000000095730       0x4f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+                0x0000000000095730                __floatunsidf
+ .text          0x000000000009577f       0x27 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                0x000000000009577f                vAHI_InterruptSetPriority
+                0x000000000009579d                vAHI_InterruptSetActivePriorityLevel
+ .text.vMicroSyscall
+                0x00000000000957a6       0x17 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x00000000000957a6                vMicroSyscall
+ .text          0x00000000000957bd       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x00000000000957bd                memset
+                0x00000000000957cf                _flash_end = ABSOLUTE (.)
+
+.rela.dyn       0x00000000000957d0        0x0
+ .rela.text     0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+ .rela.text.unlikely
+                0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+ .rela.rodata   0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+ .rela.data     0x0000000000000000        0x0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+                0x000000000400004c                . = ORIGIN (ram)
+
+.data           0x000000000400004c       0x48 load address 0x00000000000957d0
+                0x000000000400004c                _ram_data_start = ABSOLUTE (.)
+ *(.data*)
+ .data          0x000000000400004c        0xa C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+                0x000000000400004c                bme280_model
+ .data          0x0000000004000056        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans8.ltrans.o
+                0x0000000004000056                _toconet_tx_u8_init_queue_flag
+ .data          0x0000000004000057        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+                0x0000000004000057                u8TxWkrNow.11198
+ .data.initinboot
+                0x0000000004000058        0x8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+ .data          0x0000000004000060        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+ .data.initinboot
+                0x0000000004000061        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+                0x0000000004000061                gMAC_u8MaxBuffers
+ .data          0x0000000004000062        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans13.ltrans.o
+                0x0000000004000062                SHT31_ADDRESS.1556
+ *fill*         0x0000000004000063        0x1 00
+ .data          0x0000000004000064       0x28 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans14.ltrans.o
+                0x0000000004000064                INTRCT_USER_APP_NAME
+                0x0000000004000068                INTRCT_USER_APP_ID
+ .data          0x000000000400008c        0x4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+                0x000000000400008c                u32HeapStart
+ .data          0x0000000004000090        0x2 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans25.ltrans.o
+ *(.data.*)
+                0x0000000004000094                . = ALIGN (0x4)
+ *fill*         0x0000000004000092        0x2 00
+                0x0000000004000094                _ram_data_end = ABSOLUTE (.)
+
+.bss            0x0000000004000094     0x1890 load address 0x0000000000095818
+                0x0000000004000094                _bss_start = ABSOLUTE (.)
+ *(.bss*)
+ .bss           0x0000000004000094       0xa0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+                0x0000000004000094                the_mac
+                0x00000000040000a4                b_bme280_w_humid
+                0x00000000040000a8                sns_bme280
+                0x00000000040000c8                b_found_bme280
+                0x00000000040000cc                sns_sht3x
+                0x00000000040000e8                b_found_sht3x
+                0x00000000040000ec                Serial
+                0x000000000400010c                eState
+                0x0000000004000110                Analogue
+ .bss           0x0000000004000134        0x8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans2.ltrans.o
+ .bss           0x000000000400013c       0x40 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans3.ltrans.o
+                0x000000000400013c                g_sLP
+                0x0000000004000178                g_pvMac
+ .bss.initinboot
+                0x000000000400017c      0x1c0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans3.ltrans.o
+                0x000000000400017c                g_sMac
+ .bss           0x000000000400033c        0x8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans4.ltrans.o
+ .bss           0x0000000004000344       0x48 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans5.ltrans.o
+                0x0000000004000344                Timer4
+                0x000000000400034c                Timer3
+                0x0000000004000354                Timer2
+                0x000000000400035c                Timer1
+                0x0000000004000364                Timer0
+                0x000000000400036c                Serial1
+ .bss           0x000000000400038c       0x1c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+                0x000000000400038c                bTxEventQueued.26906
+                0x000000000400038d                u8TxEventStatus.26907
+                0x000000000400038e                TxWorker_u8Num.11155
+                0x0000000004000390                sAppHousekeeping
+ .bss           0x00000000040003a8      0x6c8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans8.ltrans.o
+                0x00000000040003a8                SPI
+                0x00000000040003ac                SerialParser
+                0x00000000040003e8                apfTimerAppCallback.31483
+                0x00000000040003fc                au16TimerSettings.31432
+                0x0000000004000406                gbTimeOutFlag.31270
+                0x0000000004000408                prUart1AppCallback.31738
+                0x000000000400040c                prUart0AppCallback.31737
+                0x0000000004000410                sOpt.13231
+ .bss           0x0000000004000a70       0x2c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+                0x0000000004000a70                sCh_Context.11620
+                0x0000000004000a74                u32MyAddr.12926
+                0x0000000004000a78                asTx.11154
+ .bss.initinboot
+                0x0000000004000a9c        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+ *fill*         0x0000000004000a9d        0x3 00
+ .bss           0x0000000004000aa0      0x728 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+                0x0000000004000aa0                pvPostFunc.10279
+                0x0000000004000aa4                u32PostArg.10278
+                0x0000000004000aa8                evPost.10277
+                0x0000000004000aac                prSpiAppCallback.31071
+                0x0000000004000ab0                prSiAppCallback.32284
+                0x0000000004000ab4                prAppMcpsCallback.11986
+                0x0000000004000ab8                prAppMlmeCallback.11987
+ .bss.initinboot
+                0x00000000040011c8        0x4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+                0x00000000040011c8                prSysCtrlAppCallback.31274
+ .bss.dontinitinboot
+                0x00000000040011cc        0x8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+ .bss           0x00000000040011d4        0x2 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+ *fill*         0x00000000040011d6        0x2 00
+ .bss           0x00000000040011d8       0x20 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+                0x00000000040011d8                g_sXcv
+                0x00000000040011dc                prMcpsRequest.16173
+                0x00000000040011e0                prMlmeRequest.16172
+                0x00000000040011e4                prOriginalHandler.13058
+ .bss.initinboot
+                0x00000000040011f8        0x8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+                0x00000000040011f8                g_u32MacAddrLocation
+                0x00000000040011fc                prvUserTxStartedCallback
+ .bss           0x0000000004001200        0x4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans13.ltrans.o
+                0x0000000004001200                prApAppCallback.30837
+ .bss           0x0000000004001204       0x38 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans14.ltrans.o
+                0x0000000004001204                Wire
+ .bss           0x000000000400123c        0xc C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans15.ltrans.o
+                0x000000000400123c                i_savct.14202
+                0x0000000004001240                i_defct.14200
+                0x0000000004001244                i_modct.14201
+ .bss           0x0000000004001248       0x8c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans16.ltrans.o
+                0x0000000004001248                _ZL5_vcbs.4733
+                0x0000000004001258                sToCoNet_AppContext
+                0x0000000004001274                sToCoNet_Context
+                0x00000000040012bc                sAssocSecurity.19790
+                0x00000000040012c8                g_bJenieBackwardsCompatibilityMode
+ .bss           0x00000000040012d4       0x10 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+ .bss.dontinitinboot
+                0x00000000040012e4        0x4 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+ .bss           0x00000000040012e8      0x274 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+                0x00000000040012e8                psRxQueueList.12924
+                0x00000000040012fc                asEventHandler.10265
+                0x000000000400139c                sEvVars
+                0x00000000040013b8                u32TickCount_ms
+                0x00000000040013bc                au8Txdatabuff_idx_sTxQueue
+                0x00000000040013c0                u8TxBuffSiz_sTxQueue
+                0x00000000040013c4                sTxdatabuff_sTxQueue
+                0x00000000040013c8                sTxQueue
+                0x00000000040013e4                au8Rxdatabuff_idx_sRxQueue
+                0x00000000040013e8                u8RxBuffSiz_sRxQueue
+                0x00000000040013ec                sRxdatabuff_sRxQueue
+                0x00000000040013f0                sRxQueue
+                0x000000000400140c                au8Rxdatabuff_idx_sRxQueueCmd
+                0x0000000004001410                u8RxBuffSiz_sRxQueueCmd
+                0x0000000004001414                sRxdatabuff_sRxQueueCmd
+                0x0000000004001418                sRxQueueCmd.10721
+                0x0000000004001434                sContext.13048
+                0x0000000004001460                the_twelite
+                0x00000000040014f0                sToCoNet_Modules
+ .bss           0x000000000400155c      0x11c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans20.ltrans.o
+                0x000000000400155c                prAppHwCallback.11988
+ .bss           0x0000000004001678       0x2c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans21.ltrans.o
+                0x0000000004001678                bIntEnableFlag.30834
+                0x0000000004001679                dig_H6.1709
+                0x000000000400167a                dig_H5.1708
+                0x000000000400167c                dig_H4.1707
+                0x000000000400167e                dig_H3.1706
+                0x0000000004001680                dig_H2.1705
+                0x0000000004001682                dig_H1.1704
+                0x0000000004001684                dig_P9.1703
+                0x0000000004001686                dig_P8.1702
+                0x0000000004001688                dig_P7.1701
+                0x000000000400168a                dig_P6.1700
+                0x000000000400168c                dig_P5.1699
+                0x000000000400168e                dig_P4.1698
+                0x0000000004001690                dig_P3.1697
+                0x0000000004001692                dig_P2.1696
+                0x0000000004001694                dig_P1.1695
+                0x0000000004001696                dig_T3.1694
+                0x0000000004001698                dig_T2.1693
+                0x000000000400169a                dig_T1.1692
+                0x000000000400169c                u8ChipModel.1690
+                0x000000000400169d                BME280_ADDRESS.1691
+                0x00000000040016a0                prTickTimeAppCallback
+ .bss           0x00000000040016a4       0xc0 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+                0x00000000040016a4                sSerCmd_P3.13971
+                0x00000000040016b0                pf_vProcessInputByte.13975
+                0x00000000040016b4                sSerInpStr.13972
+                0x00000000040016e0                _ZL6sFinal.6876
+                0x0000000004001710                _psSerial
+                0x0000000004001714                Buttons
+                0x000000000400171c                PulseCounter1
+                0x0000000004001720                PulseCounter0
+                0x0000000004001724                sIntrct_Context.13974
+ .bss           0x0000000004001764        0x8 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans23.ltrans.o
+ .bss.dontinitinboot
+                0x000000000400176c        0x1 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans23.ltrans.o
+ *fill*         0x000000000400176d        0x3 00
+ .bss           0x0000000004001770       0xfc C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans25.ltrans.o
+                0x0000000004001770                sMcpsIndQueue.11982
+                0x0000000004001780                bRxQueue_Init.12925
+                0x0000000004001781                u8AppId_Pkt_head.12927
+                0x0000000004001784                u32AppId.12923
+                0x0000000004001788                sMcpsIndBufferQueue.11980
+                0x0000000004001798                sMlmeIndQueue.11983
+                0x00000000040017a8                sMlmeIndBufferQueue.11981
+                0x00000000040017b8                sHwIndQueue.11984
+                0x00000000040017c8                sHwIndBufferQueue.11985
+                0x00000000040017d8                _u32_INT_adc_comp
+                0x00000000040017dc                _u32_INT_ticktimer
+                0x00000000040017e0                the_vsettings
+                0x0000000004001800                the_vhw
+                0x0000000004001820                the_vapp
+                0x0000000004001840                the_vnet
+                0x0000000004001860                _periph_availmap
+ .bss           0x000000000400186c        0x6 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans26.ltrans.o
+                0x000000000400186c                _ZL9u8AppSlot.6891
+                0x000000000400186d                _ZL9u8AppKind.6892
+                0x000000000400186e                _ZL10u8MenuMode.6940
+ *fill*         0x0000000004001872        0x2 00
+ .bss           0x0000000004001874       0x14 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans27.ltrans.o
+                0x0000000004001874                s_sTimerList
+                0x0000000004001884                u8AssocResponsesInProgress.19789
+ .bss           0x0000000004001888       0x5c C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans28.ltrans.o
+                0x0000000004001888                asUARTS.13224
+                0x00000000040018a8                _SERIAL_bmTxIntEnabled
+                0x00000000040018ac                asSerialPorts
+ .bss.dontinitinboot
+                0x00000000040018e4       0x40 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x00000000040018e4                isr_handlers
+ *(.bss.*)
+ *(.scommon*)
+ *(.scommon.*)
+ *(COMMON)
+                0x0000000004001924                . = ALIGN (0x4)
+                0x0000000004001924                _bss_end = ABSOLUTE (.)
+
+.heap           0x0000000004001924     0x1000 load address 0x00000000000970a8
+                0x0000000004001924                _heap_start = ABSOLUTE (.)
+                0x0000000004002924                . = (. + _minimum_heap_size)
+ *fill*         0x0000000004001924     0x1000 00
+
+.stack          0x0000000004007400      0xc00 load address 0x000000000009cb84
+                0x0000000004007400                _heap_end = ABSOLUTE (.)
+                0x0000000004007400                _stack_low_water_mark = ABSOLUTE (.)
+                0x0000000004008000                . = (. + _stack_size)
+ *fill*         0x0000000004007400      0xc00 00
+
+.test           0x0000000000095818        0x1
+                0x0000000000095818        0x1 BYTE 0xff
+                0x00000000000957d0                _flash_data_start = LOADADDR (.data)
+                0x0000000000000048                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000001890                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000015818                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000001001580                _app_ram_start = 0x1001580
+                0x000000000400008c                PROVIDE (_heap_location, u32HeapStart)
+                0x000000000400008c                PROVIDE (heap_location, u32HeapStart)
+                0x0000000000088031                TSV_eOpenVector = TSV_eOpen
+                0x0000000000087a2e                TSV_eStartVector = TSV_eStart
+                0x00000000000926e6                TSV_eStopVector = TSV_eStop
+                0x0000000000090763                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
+                0x000000000008a507                u32AppApiInit = u32AppApiDefInit
+                0x0000000000090738                vAppApiMlmeRequest = vAppApiDefMlmeRequest
+                0x000000000008825f                vAppApiMcpsRequest = vAppApiDefMcpsRequest
+                0x0000000000088206                eAppApiPlmeSet = eAppApiDefPlmeSet
+                0x00000000000881b4                eAppApiPlmeGet = eAppApiDefPlmeGet
+                0x00000000000881ab                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
+                0x000000000008810a                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
+                0x0000000000088039                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
+OUTPUT(objs_BLUE/My_Onshitsudo_BLUE_L1304_V0-1-0.elf elf32-ba)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans20.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans21.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans22.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans23.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans24.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans25.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans26.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans27.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\B4_2020\AppData\Local\Temp\ccMMaPiU.ltrans28.ltrans.o
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .comment       0x0000000000000000       0x11 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_info     0x0000000000000000     0x3714
+ .debug_info    0x0000000000000000       0xf3 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_info    0x00000000000000f3      0x106 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000001f9       0xc8 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_info    0x00000000000002c1       0xb7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_info    0x0000000000000378       0xb7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_info    0x000000000000042f       0xb7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_info    0x00000000000004e6       0xb7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_info    0x000000000000059d      0x1f9 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_info    0x0000000000000796       0xd3 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_info    0x0000000000000869      0x648 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000eb1      0x69d c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_info    0x000000000000154e      0x4b2 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_info    0x0000000000001a00      0x5c5 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_info    0x0000000000001fc5      0x1e7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_info    0x00000000000021ac      0x20b c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_info    0x00000000000023b7      0x20b c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_info    0x00000000000025c2      0x5c7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_info    0x0000000000002b89      0x4b2 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_info    0x000000000000303b      0x1b7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_info    0x00000000000031f2      0x1d6 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_info    0x00000000000033c8      0x1cb c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_info    0x0000000000003593       0xaa C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_info    0x000000000000363d       0xd7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_abbrev   0x0000000000000000     0x129d
+ .debug_abbrev  0x0000000000000000       0x8e c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000008e       0xa4 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000132       0x7f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00000000000001b1       0x14 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_abbrev  0x00000000000001c5       0x14 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_abbrev  0x00000000000001d9       0x14 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_abbrev  0x00000000000001ed       0x14 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_abbrev  0x0000000000000201       0xe0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_abbrev  0x00000000000002e1       0x60 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_abbrev  0x0000000000000341      0x15d c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x000000000000049e      0x175 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000000000000613      0x133 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_abbrev  0x0000000000000746      0x12f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_abbrev  0x0000000000000875      0x128 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_abbrev  0x000000000000099d      0x137 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_abbrev  0x0000000000000ad4      0x139 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_abbrev  0x0000000000000c0d      0x141 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_abbrev  0x0000000000000d4e      0x133 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_abbrev  0x0000000000000e81      0x12a c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x0000000000000fab      0x128 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_abbrev  0x00000000000010d3      0x128 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_abbrev  0x00000000000011fb       0x14 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_abbrev  0x000000000000120f       0x8e c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_loc      0x0000000000000000     0x5bfb
+ .debug_loc     0x0000000000000000       0x73 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000000073       0x39 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000000ac       0x3f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000000000000eb      0x220 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_loc     0x000000000000030b       0x48 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_loc     0x0000000000000353      0xa7b c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_loc     0x0000000000000dce      0x985 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_loc     0x0000000000001753     0x10f3 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_loc     0x0000000000002846     0x117e c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_loc     0x00000000000039c4       0x83 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_loc     0x0000000000003a47      0x154 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_loc     0x0000000000003b9b       0xe6 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_loc     0x0000000000003c81      0xa0e c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_loc     0x000000000000468f     0x114e c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_loc     0x00000000000057dd       0xa8 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_loc     0x0000000000005885      0x1be c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_loc     0x0000000000005a43      0x179 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_loc     0x0000000000005bbc       0x3f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_aranges  0x0000000000000000      0x2e0
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_aranges
+                0x0000000000000120       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000140       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000160       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_aranges
+                0x0000000000000180       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_aranges
+                0x0000000000000200       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_aranges
+                0x0000000000000220       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_aranges
+                0x0000000000000240       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x0000000000000260       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_aranges
+                0x0000000000000280       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_line     0x0000000000000000     0x2d99
+ .debug_line    0x0000000000000000      0x15a c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_line    0x000000000000015a      0x14e c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000002a8      0x134 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_line    0x00000000000003dc      0x47b c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_line    0x0000000000000857       0xbb c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_line    0x0000000000000912      0x3c7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_line    0x0000000000000cd9       0xa3 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_line    0x0000000000000d7c       0x93 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_line    0x0000000000000e0f       0x9f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_line    0x0000000000000eae      0x1b7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000001065      0x1b7 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_line    0x000000000000121c      0x63d c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_line    0x0000000000001859      0x3b5 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_line    0x0000000000001c0e       0xf1 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_line    0x0000000000001cff      0x15f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_line    0x0000000000001e5e      0x15f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_line    0x0000000000001fbd      0x269 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_line    0x0000000000002226      0x656 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_line    0x000000000000287c       0xc8 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_line    0x0000000000002944       0xbc c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_line    0x0000000000002a00       0xbe c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_line    0x0000000000002abe      0x197 C:/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_line    0x0000000000002c55      0x144 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_str      0x0000000000000000      0x716
+ .debug_str     0x0000000000000000       0x49 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                                        0x155 (size before relaxing)
+ .debug_str     0x0000000000000049       0x5d c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                                        0x169 (size before relaxing)
+ .debug_str     0x00000000000000a6       0x4f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                                        0x15b (size before relaxing)
+ .debug_str     0x00000000000000f5       0xf8 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+                                        0x1a3 (size before relaxing)
+ .debug_str     0x00000000000001ed       0x14 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+                                        0x169 (size before relaxing)
+ .debug_str     0x0000000000000201       0x3d c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                                        0x1d7 (size before relaxing)
+ .debug_str     0x000000000000023e        0xa c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+                                        0x1d7 (size before relaxing)
+ .debug_str     0x0000000000000248       0xc6 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+                                        0x1ba (size before relaxing)
+ .debug_str     0x000000000000030e       0x7a c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+                                        0x1f9 (size before relaxing)
+ .debug_str     0x0000000000000388       0x3f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+                                        0x16e (size before relaxing)
+ .debug_str     0x00000000000003c7       0x57 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+                                        0x186 (size before relaxing)
+ .debug_str     0x000000000000041e       0x3f c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+                                        0x186 (size before relaxing)
+ .debug_str     0x000000000000045d       0x72 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+                                        0x1eb (size before relaxing)
+ .debug_str     0x00000000000004cf       0x41 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+                                        0x1ba (size before relaxing)
+ .debug_str     0x0000000000000510       0x4b c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+                                        0x17f (size before relaxing)
+ .debug_str     0x000000000000055b       0x54 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+                                        0x188 (size before relaxing)
+ .debug_str     0x00000000000005af       0x4b c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+                                        0x185 (size before relaxing)
+ .debug_str     0x00000000000005fa      0x11c c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                                        0x155 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x298
+ .debug_frame   0x0000000000000000       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000020       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000040       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000060       0x2c c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_frame   0x000000000000008c       0x2c c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x00000000000000b8       0x30 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_frame   0x00000000000000e8       0x34 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_frame   0x000000000000011c       0x30 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_frame   0x000000000000014c       0x34 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_frame   0x0000000000000180       0x34 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_frame   0x00000000000001b4       0x34 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_frame   0x00000000000001e8       0x30 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_frame   0x0000000000000218       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_frame   0x0000000000000238       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_frame   0x0000000000000258       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_frame   0x0000000000000278       0x20 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_ranges   0x0000000000000000      0x588
+ .debug_ranges  0x0000000000000000       0x30 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_muldi3.o)
+ .debug_ranges  0x0000000000000030       0xa0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000000000000d0       0x80 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000000150       0x80 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_ranges  0x00000000000001d0       0xb0 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_ranges  0x0000000000000280       0x38 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_ranges  0x00000000000002b8       0x58 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_ranges  0x0000000000000310       0x40 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_ranges  0x0000000000000350      0x1a8 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_ranges  0x00000000000004f8       0x78 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_ranges  0x0000000000000570       0x18 c:/mwstage/mwsdk/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)

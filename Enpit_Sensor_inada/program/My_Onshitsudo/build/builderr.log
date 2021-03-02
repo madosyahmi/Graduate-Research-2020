@@ -1,0 +1,2 @@
+C:/MWSTAGE/MWSDK/Act_samples/My_Onshitsudo/ActEx_Sns_BME280_SHT30.cpp: In function 'void setup()':
+C:/MWSTAGE/MWSDK/Act_samples/My_Onshitsudo/ActEx_Sns_BME280_SHT30.cpp:176:9: warning: unused variable 'b_alt_id' [-Wunused-variable]

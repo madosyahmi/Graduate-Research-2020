@@ -1,0 +1,4 @@
+ワイヤレスUART通信
+UARTの入力(ｱｽｷｰ形式)を親子間双方向で行います。
+JETSONに接続し、JETSONからの送受信モジュールとして使用します。
+https://mwx.twelite.info/v/latest/act_samples/wirelessuart
