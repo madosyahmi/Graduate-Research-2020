@@ -1,0 +1,143 @@
+%卒業論文用テンプレート
+\documentstyle[graphicx]{jronbun}
+
+%諸定義
+\newenvironment{indention}[1]{\par
+\addtolength{\leftskip}{#1}
+\begingroup}{\endgroup\par}
+
+%論文名
+\title{\underline{IEEE802.15.4準拠の低消費電力無線通信モジュールを用いた} \\ \underline{室内環境値計測デバイスの実装}}
+%教官名
+\kyoukan{高橋寛教授}
+\second{王森レイ講師}
+%名前
+\author{稲田　一輝}
+%提出日
+\date{令和3年2月12日提出}
+%講座名
+\kouza{\gt 愛媛大学工学部情報工学科情報システム工学講座}
+
+\begin{document}
+%タイトル生成
+\maketitle
+%目次生成
+\pagenumbering{roman}
+\tableofcontents
+\cleardoublepage
+\pagenumbering{arabic}
+
+%--ここから本文--
+%第1章　まえがき
+\chapter{まえがき}
+\input{1}
+
+%第2章　準備
+\chapter{準備}
+\input{2}
+
+%第3章　
+\chapter{感染症予防サポートシステムの設計}
+\input{3}
+\input{3-1}
+\input{3-2}
+\input{3-3}
+\input{3-4}
+
+%第4章
+\chapter{実装・検証}
+\input{4}
+\input{4-1}
+\input{4-2}
+
+%第5章
+\chapter{評価・考察}
+\input{5}
+\input{5-1}
+\input{5-2}
+
+%第6章
+\chapter{あとがき}
+\input{6}
+%--ここまで本文--
+
+
+%謝辞
+\newpage
+\addcontentsline{toc}{chapter}{\protect\numberline{謝辞}{}}
+\chapter*{謝辞}
+%--ここから謝辞--
+本研究を進めるにあたり，懇篤な御指導，御鞭撻を賜わりました本学高橋寛教授に深く御礼申し上げます．
+
+%本論文の作成に関し，詳細なるご検討，貴重な御教示を頂きました本学樋上喜信准教授ならびに王森レイ講師に深く御礼申し上げます．
+本論文の作成に関し，詳細なるご検討，貴重な御教示を頂きました本学甲斐博准教授ならびに王森レイ講師に深く御礼申し上げます．
+%--審査員決定後に入力
+また，審査頂いた本学高橋寛教授ならびに井門俊講師，稲元勉講師に深く御礼申し上げます．
+
+最後に，多大な御協力と貴重な御助言を頂いた本学工学部情報工学科情報システム工学講座高橋研究室の諸氏に厚く御礼申し上げます．
+
+%--ここまで謝辞--
+
+%参考文献
+\begin{thebibliography}{99}
+%ここから参考文献
+
+%--例--
+\bibitem{ishiki}
+オムロン　ヘルスケア株式会社，新型コロナウイルス感染症の流行における意識と生活習慣の変化 | ニュースリリース｜企業情報｜オムロン ヘルスケア，https://www.healthcare.omron.co.jp/corp/news/2020/0515.html，2020-5
+
+\bibitem{koronaQA}
+厚生労働省，新型コロナウイルスに関するQ\&A（一般の方向け）｜厚生労働省，https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/\\kenkou\_iryou/dengue\_fever\_qa\_00001.html，2020-12-24
+
+\bibitem{kanki}
+厚生労働省，「換気の悪い密閉空間」を改善するための換気の方法，https://www.mhlw.go.jp/content/10900000/000618969.pdf，2020-4-3
+
+\bibitem{ieee}
+IEEE，IEEE 802.15.4，https://www.ieee802.org/15/pub/TG4.html，2021-1-6
+
+\bibitem{wnet}
+塚本和也，無線ネットワークシステムのしくみ -IoTを支える基盤技術-，共立出版株式会社，2017
+
+\bibitem{iot}
+渡辺晴美，今村誠，久住憲嗣，つながる！基礎技術 IoT入門　-コンピュータ・ネットワーク・データの基礎から開発まで-，株式会社コロナ社，2020
+
+% \bibitem{population}
+% 平成28年版 情報通信白書｜人口減少社会の到来，総務省，https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h28/html/nc111110.html，2016-07
+
+
+% \bibitem{super}
+% 一般社団法人　全国スーパーマーケット協会，年次統計調査　2019年調査，http://www.super.or.jp/wp-content/uploads/2019/10/2019nenji-tokei.pdf，2019-10
+
+
+%変わりなし
+\bibitem{uml}
+株式会社　オージス総研，かんたんUML[増補改訂版]，株式会社　翔泳社，2003
+
+\bibitem{jetson}
+NVIDIA Corporation，NVIDIA Jetson が提供する組込みシステムの開発者キットとモジュール，https://www.nvidia.com/ja-jp/autonomous-machines/embedded-systems/，2021-1-13
+
+\bibitem{twelite}
+モノワイヤレス株式会社，モノをつなぐ無線マイコンモジュール TWELITE-トワイライト - MONO-WIRELESS.COM，https://mono-wireless.com/jp/products/TWE-LITE/index.html，2021-1-13
+
+\bibitem{kumikomi}
+阪田史郎，高田広章，組込みシステム，株式会社　オーム社，2006
+
+\bibitem{denti}
+パナソニック株式会社，\newline [アルカリ・マンガン] 乾電池の電池容量はどれ位？ PZ29060 - 乾電池 - Panasonic，https://jpn.faq.panasonic.com/app/answers/detail/a\_id/29060/p/1844,1845,1846/\\related/1，2021-01-15
+
+\bibitem{co2_ave}
+気象庁，気象庁 | 二酸化炭素濃度の観測結果，https://ds.data.jma.go.jp/ghg/kanshi/obs/co2\_yearave.html，2020-3-24
+
+\bibitem{amedas}
+気象庁，2021年01月27日　松山(マツヤマ)　毎正時の観測データ，http://www.jma.go.jp/jp/amedas\_h/today-73166.html，2021-1-27
+% \bibitem{soft}
+% 小泉寿男，辻 秀一，吉田 幸二，中島 毅，ソフトウェア開発，株式会社　オーム社，2003
+
+
+% \bibitem{reji}
+% レジチョイス編集部，価格・製品特徴比較，https://rejichoice.jp/semi-self-regi/，2020-01-15
+
+%ここまで参考文献
+
+\end{thebibliography}
+\end{document}
