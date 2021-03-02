@@ -1,0 +1,5 @@
+nakagawa,192.168.23.41
+yunoki,192.168.23.42
+nakashima,192.168.23.43
+yamashita,192.168.23.44
+muhammado,192.168.23.45
