@@ -1,0 +1,67 @@
+ff862642a000ea{"ppm": 612, "dt": "2020-11-26T14:39:42.998067"}
+ff8626f2a000df{"ppm": 623, "dt": "2020-11-26T14:40:15.059396"}
+ff8626c2a000e2{"ppm": 620, "dt": "2020-11-26T14:40:47.120902"}
+ff862672a000e7{"ppm": 615, "dt": "2020-11-26T14:41:19.182122"}
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+d243fdff('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+ff8622b2a00023{"ppm": 555, "dt": "2020-11-26T14:52:19.007625"}
+ff862212a0002d{"ppm": 545, "dt": "2020-11-26T14:52:51.068036"}
+ff8621a2a00034{"ppm": 538, "dt": "2020-11-26T14:53:23.129108"}
+ff8621c2a00032{"ppm": 540, "dt": "2020-11-26T14:53:55.190201"}
+ff862212a0002d{"ppm": 545, "dt": "2020-11-26T14:54:27.250492"}
+ff862212a0002d{"ppm": 545, "dt": "2020-11-26T14:54:59.310671"}
+ff862202a0002e{"ppm": 544, "dt": "2020-11-26T14:55:31.371341"}
+ff862232a0002b{"ppm": 547, "dt": "2020-11-26T14:56:03.431454"}
+ff862252a00029{"ppm": 549, "dt": "2020-11-26T14:56:35.492046"}
+ff862252b00028{"ppm": 549, "dt": "2020-11-26T14:57:07.553124"}
+ff8621f2a0002f{"ppm": 543, "dt": "2020-11-26T14:57:39.614210"}
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
+('bytearray index out of range',)
