@@ -1,0 +1,42 @@
+ピン配置
+https://mono-wireless.com/jp/products/TWE-APPS/App_Twelite/app_twelite.pdf
+
+I2Cの読み書き
+https://mwx.twelite.info/api-reference/predefined_objs/wire
+
+UARTの読み書き
+
+
+・温湿度センサのアドレス
+0x76 (SDO:GND)、0x77(SOD:VDD)
+温湿度及び圧力
+0xF7から0xFE
+湿度以外
+0xF7から0xFC
+温湿度センサ(BME280)のサンプルコード
+https://github.com/monowireless/ActEx_Sns_BME280_SHT30
+
+・二酸化炭素濃度センサ
+https://qiita.com/urib0/items/256973f68cc1fbcd1244
+＜PMW＞
+検出レンジが0~2000[ppm]の場合、1000ms(±5%)周期でPWMが出力されるので、High幅(Th),Low幅(Tl)を以下の式に当てはめればいいらしい
+CO2濃度[ppm] = 2000 x ( Th - 2 ) / ( Th + Tl - 4)
+＜DAC＞
+出力電圧0.4〜2.0[V]がCO2濃度の0〜10000[ppm]に対応するらしい、計算式は以下
+CO2濃度[ppm]=(Vo(V)-0.4V)*検出レンジ[ppm]/(2.0V-0.4V)
+\DAC（analogueRead??）
+https://mwx.twelite.info/api-reference/predefined_objs/analogue
+＜UART＞
+2バイト出力(ppm)と思われる
+https://qiita.com/watiko/items/5cfa2aedd5a67619add0
+参照
+https://mwx.twelite.info/api-reference/classes/ser_parser
+
+
+JetSon　UART
+https://karaage.hatenadiary.jp/entry/2020/01/27/073000
+Mysqlインストール
+https://qiita.com/houtarou/items/a44ce783d09201fc28f5
+
+
+
